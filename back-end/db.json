@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Vestido azul",
+      "price": 20,
+      "state": "Pouco usado"
+    },
+    {
+      "id": "2",
+      "name": "Jaqueta jeans",
+      "price": 35,
+      "state": "Nova"
+    },
+    {
+      "id": "3",
+      "name": "Calça preta",
+      "price": 35,
+      "state": "Usada"
+    },
+    {
+      "id": "4",
+      "name": "Camisa floral",
+      "price": 20,
+      "state": "Nova"
+    },
+    {
+      "id": "5",
+      "name": "Lousa magica",
+      "price": 40,
+      "state": "Novo"
+    }
+  ]
+}
